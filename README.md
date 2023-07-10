@@ -1,2 +1,2 @@
 # iOS-Developer-Portfolio
-Andrii Stetsenko - iOS Developer Portfolio
+Andrey Stetsenko - iOS Developer Portfolio
