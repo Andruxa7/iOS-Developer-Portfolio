@@ -44,4 +44,5 @@ Rick and Morty app uses Api from them, recollect all characters and they details
 - 🖼 UIComponents -> TableView, SearchBar and Menu
 - 🗂️ Api call native with completion
 - 💾 UserDefaults
-- 
+
+
