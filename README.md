@@ -4,7 +4,6 @@
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 ## [Marvel App](https://github.com/Andruxa7/MarvelApp)
-========================
 
 [![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
