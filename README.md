@@ -15,7 +15,7 @@
 [![Status](http://img.shields.io/badge/status-live%20on%20the%20App%20Store-black.svg?style=flat
 )](https://apps.apple.com/ua/app/vnk-calculator/id6820591523)
 
-### Commercial iOS app built to order for VNK, a roofing and fencing materials supplier in Kyiv
+### Commercial iOS app built to order for [VNK](https://vnk.kiev.ua/), a roofing and fencing materials supplier in Kyiv
 
 ## About app
 VNK Calculator works out how much material a customer needs for a roof, a gutter system, soffits or a fence, and sends the estimate to a VNK manager in one tap for an exact quote.
