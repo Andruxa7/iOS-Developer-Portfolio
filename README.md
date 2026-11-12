@@ -18,7 +18,7 @@
 ### Commercial iOS app built to order for [VNK](https://vnk.kiev.ua/), a roofing and fencing materials supplier in Kyiv
 
 ## About app
-VNK Calculator works out how much material a customer needs for a roof, a gutter system, soffits or a fence, and sends the estimate to a VNK manager in one tap for an exact quote.
+VNK Calculator works out how much material a customer needs for a roof, a gutter system, soffits or a fence, and sends the estimate to a VNK manager for an exact quote.
 I built it alone from start to finish: requirements with the client, design, development, testing with the client on TestFlight and the App Store release (October 2026). It grew out of my earlier pet project [Calculation-of-roofing-materials](https://github.com/Andruxa7/Calculation-of-roofing-materials).
 
 - 🏠 **Roofing:** metal tile, modular metal tile, profiled sheet and bitumen shingles for five roof shapes (lean-to, gable, mansard, hip and tent), with sheet layout
@@ -48,7 +48,7 @@ I built it alone from start to finish: requirements with the client, design, dev
 - 📄 PDF generation and sharing (PDFKit, MessageUI, UIActivityViewController)
 - 🌍 Localization with String Catalogs (uk / ru / en)
 - 📱 Adaptive layout for iPhone and iPad, dark mode
-- ✅ XCTest: 130+ unit tests for the calculation logic
+- ✅ XCTest: 147 unit tests for the calculation engine (96% code coverage)
 - 🔒 Privacy manifest, App Privacy, App Review
 - 🚀 TestFlight beta with the client, App Store release
 - 🛰️ Git flow (main / develop / feature branches)
