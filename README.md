@@ -2,6 +2,8 @@
  
 ### 👋 Hi! I'm Andrii, an iOS Developer from Kyiv. Here are my commercial and personal projects.
 
+🎓 **Certifications (ITVDN, Nov 2026):** [Swift Professional — 918/1000](https://testprovider.com/ru/search-certificate/TP92297015) · [Swift Essential — 833/1000](https://testprovider.com/ru/search-certificate/TP46027987)
+
 ## [VNK Calculator](https://apps.apple.com/ua/app/vnk-calculator/id6820591523)
 
 <a href="https://apps.apple.com/ua/app/vnk-calculator/id6820591523"><img src="VNKCalculator/app-store-badge.svg" alt="Download on the App Store" height="50"/></a>
